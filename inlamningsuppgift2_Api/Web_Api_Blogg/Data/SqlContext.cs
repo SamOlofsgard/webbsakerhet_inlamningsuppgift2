@@ -16,6 +16,7 @@ namespace Web_Api_Blogg.Data
         }
 
         public virtual DbSet<BloggPostsEntity> BloggPosts { get; set; }
+        public virtual DbSet<FileUrlEntity> FileUrls { get; set; }
 
     }
 }

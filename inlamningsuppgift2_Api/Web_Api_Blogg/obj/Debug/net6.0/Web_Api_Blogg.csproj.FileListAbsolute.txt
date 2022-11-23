@@ -282,3 +282,11 @@ C:\Users\sam\Documents\Webbsakerhet\inlamningsuppgift2\inlamningsuppgift2_Api\We
 C:\Users\sam\Documents\Webbsakerhet\inlamningsuppgift2\inlamningsuppgift2_Api\Web_Api_Blogg\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\sam\Documents\Webbsakerhet\inlamningsuppgift2\inlamningsuppgift2_Api\Web_Api_Blogg\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\sam\Documents\Webbsakerhet\inlamningsuppgift2\inlamningsuppgift2_Api\Web_Api_Blogg\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sam\Documents\Webbsakerhet\inlamningsuppgift2\inlamningsuppgift2_Api\Web_Api_Blogg\obj\Debug\net6.0\staticwebassets\msbuild.Web_Api_Blogg.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sam\Documents\Webbsakerhet\inlamningsuppgift2\inlamningsuppgift2_Api\Web_Api_Blogg\obj\Debug\net6.0\staticwebassets\msbuild.build.Web_Api_Blogg.props
+C:\Users\sam\Documents\Webbsakerhet\inlamningsuppgift2\inlamningsuppgift2_Api\Web_Api_Blogg\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Web_Api_Blogg.props
+C:\Users\sam\Documents\Webbsakerhet\inlamningsuppgift2\inlamningsuppgift2_Api\Web_Api_Blogg\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Web_Api_Blogg.props
+C:\Users\sam\Documents\Webbsakerhet\inlamningsuppgift2\inlamningsuppgift2_Api\Web_Api_Blogg\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\sam\Documents\Webbsakerhet\inlamningsuppgift2\inlamningsuppgift2_Api\Web_Api_Blogg\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+C:\Users\sam\Documents\Webbsakerhet\inlamningsuppgift2\inlamningsuppgift2_Api\Web_Api_Blogg\bin\Debug\net6.0\Azure.Storage.Common.dll
+C:\Users\sam\Documents\Webbsakerhet\inlamningsuppgift2\inlamningsuppgift2_Api\Web_Api_Blogg\bin\Debug\net6.0\System.IO.Hashing.dll

@@ -41,6 +41,27 @@ namespace WebApiBlogg.Migrations
 
                     b.ToTable("BloggPosts");
                 });
+
+            modelBuilder.Entity("Web_Api_Blogg.Models.Entities.FileUrlEntity", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("ImgUrl")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(200)");
+
+                    b.Property<string>("UserName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(50)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("FileUrls");
+                });
 #pragma warning restore 612, 618
         }
     }
